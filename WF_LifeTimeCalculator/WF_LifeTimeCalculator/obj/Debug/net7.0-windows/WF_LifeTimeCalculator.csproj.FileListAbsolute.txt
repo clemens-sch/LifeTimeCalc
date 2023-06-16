@@ -1,0 +1,17 @@
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\bin\Debug\net7.0-windows\WF_LifeTimeCalculator.exe
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\bin\Debug\net7.0-windows\WF_LifeTimeCalculator.deps.json
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\bin\Debug\net7.0-windows\WF_LifeTimeCalculator.runtimeconfig.json
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\bin\Debug\net7.0-windows\WF_LifeTimeCalculator.dll
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\bin\Debug\net7.0-windows\WF_LifeTimeCalculator.pdb
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.csproj.AssemblyReference.cache
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.Form1.resources
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.csproj.GenerateResource.cache
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.AssemblyInfoInputs.cache
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.AssemblyInfo.cs
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.dll
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\refint\WF_LifeTimeCalculator.dll
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.pdb
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\WF_LifeTimeCalculator.genruntimeconfig.cache
+C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\WF_LifeTimeCalculator\obj\Debug\net7.0-windows\ref\WF_LifeTimeCalculator.dll
