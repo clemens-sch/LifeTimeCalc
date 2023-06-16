@@ -3,7 +3,7 @@
 The WF_LifeTimeCalculator program is a Windows Forms application that calculates and displays an individual's lifetime in years, days, hours, minutes, and seconds based on their birth date. It provides a user interface with an input field for entering the birth date and a "Calculate" button to trigger the calculation.
 
 ## Model
-![Model]("C:\Users\Clemens\source\repos\GitHub\WF_LifeTimeCalculator\LifeTimeCalc.png")
+![Model]("img\LifeTimeCalc.png")
 
 ## Program Structure
 The program is written in C# and utilizes the Windows Forms framework. It consists of a single form (Form1) with various controls, including a maskedTextBoxInput for entering the birth date and labels (labelYears, labelDays, labelHours, labelMinutes, labelSeconds) for displaying the calculated lifetime in different units.
